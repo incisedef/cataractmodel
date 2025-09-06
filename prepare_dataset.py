@@ -38,6 +38,5 @@ for category in ["immature", "mature"]:
         shutil.copy(os.path.join(src_folder, img),
                     os.path.join(TEST_DIR, category, img))
 
-print("✅data prepared successfully! Train/Test split done.")
-
 # Note: This script assumes that the dataset is structured with two main folders: "immature" and "mature", each containing images.
+
