@@ -4,8 +4,8 @@ This project classifies cataract eye images into **Mature** and **Immature** sta
 
 ## Structure
 - `cataract_dataset/` → Dataset folder (kaggle)
-- `src/` → Model training & preprocessing scripts
-- `notebooks/` → Experiments and analysis
+- `prepare_dataset/` → classifying as "immature" and "mature"
+- `train/` → Model training & preprocessing scripts
 - `.venv/` → Virtual environment
 
 ## Setup
