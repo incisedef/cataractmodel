@@ -3,7 +3,7 @@
 This project classifies cataract eye images into **Mature** and **Immature** stages using CNN.
 
 ## Structure
-- `cataract_dataset/` → Dataset folder (kaggle) from cataract dataset path:
+- `cataract_dataset/` → Dataset folder (kaggle) from path:
 - path = kagglehub.dataset_download("akshayramakrishnan28/cataract-classification-dataset")
 
 ## Classification Model
