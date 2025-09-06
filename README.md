@@ -4,7 +4,7 @@ This project classifies cataract eye images into **Mature** and **Immature** sta
 
 ## Structure
 - `cataract_dataset/` → Dataset folder (kaggle) from cataract dataset path:
-path = kagglehub.dataset_download("akshayramakrishnan28/cataract-classification-dataset")
+- path = kagglehub.dataset_download("akshayramakrishnan28/cataract-classification-dataset")
 
 ## Classification Model
 - `prepare_dataset/` → classifying as "immature" and "mature"
