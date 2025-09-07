@@ -2,7 +2,7 @@ import os
 import shutil
 import random
 
-# 📂 current data directories
+# current data directories
 DATASET_DIR = r"D:\py2\cataract_dataset"  # Kaynak
 TRAIN_DIR = r"D:\py2\train"
 TEST_DIR = r"D:\py2\test"
